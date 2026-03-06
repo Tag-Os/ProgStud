@@ -15,7 +15,7 @@ lamps_cost = store[goods['Лампа']][0]['quantity'] * store[goods['Лампа
 
 ## результат работы
 
-![Результат](../Images/10_Result.jpg)
+![Результат](../images/10_Result.jpg)
 
 ## Список использованных источников
 
