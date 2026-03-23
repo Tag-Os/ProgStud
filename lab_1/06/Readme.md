@@ -16,7 +16,7 @@ duration = round(violator_songs_list[3][1] + violator_songs_list[5][1] + violato
 
 ## результат работы программы
 
-![Результат](../Images/06_Result.jpg)
+![Результат](../images/06_Result.jpg)
 
 ## Список использованных источников
 
