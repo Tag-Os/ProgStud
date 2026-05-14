@@ -41,7 +41,7 @@ plt.show()
 третий график
 ![Результат](../images/medium_third.jpg)
 четвёртый график
-![Результат](../images/medium_fourth.jpg)
+![Результат](../images/medium_fourth1.jpg)
 
 ## Список использованных источников
 
